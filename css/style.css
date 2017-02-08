@@ -1,0 +1,21 @@
+
+.card {
+  margin: 40px auto;
+  padding: 20px;
+  width: 1050px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.32), 0 3px 12px 0 rgba(0, 0, 0, 0.24);
+  text-align: center;
+}
+
+.tooltip {
+  position: absolute;
+  background-color: black;
+  color: white;
+  padding: 3px 5px;
+  display: none;
+}
+
+.notes {
+  white-space: pre-wrap;
+  margin-top: 10px;
+}
